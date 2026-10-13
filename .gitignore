@@ -1,0 +1,6 @@
+/bin/
+/data/
+/gh/
+/gen/
+*.test
+*.out
